@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dimas Aditya</h1>
 <h3 align="center">A passionate Full Stack developer from Indonesian</h3>
 
+<img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif"/>
+
 - 🎓 I’m graduated from [Hacktiv8](https://hacktiv8.com/)
 
 <h3 align="left">Connect with me:</h3>
