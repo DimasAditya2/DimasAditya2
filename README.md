@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif"/>
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*s2ivt9cecdqsXvts.gif"/>
 </div>
-
+<hr/>
 
 - 🎓 I’m graduated from [Hacktiv8](https://hacktiv8.com/)
 - 🔥 I’m interested in learning full stack web development.
